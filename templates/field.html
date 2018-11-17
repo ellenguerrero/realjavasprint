@@ -1,4 +1,14 @@
-{% extends "base.html" %}
+{% extends 'base.html' %}
+
+{% block extra_imports %}
+
+	<!-- import from Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300, bold" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+
+{% endblock %}
+
 
 
 {% block nav_header %}
@@ -6,8 +16,23 @@
   <img id="run" src="{{ url_for('static', filename ='img/field icon.png')}}" height="100px"><hr>
 {% endblock %}
 
-
 {% block content %}
-  <!-- html goes here -->
+<!-- <div class="container"> -->
+  <div class="row">
+    <div class="col-md-12">
+      <div id="plot1"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+        <div id="plot2"></div>
+    </div>
+  <!-- </div> -->
+
+  </div>  
+  <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="../static/js/hardcodefieldapp.js"></script>
 
 {% endblock %}
