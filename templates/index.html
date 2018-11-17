@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+<title>{% block title %}Home{% endblock %}</title>
+
+
+{% block nav_header %}
+  <img src="{{ url_for('static', filename='img/JavaSprintLogo1.png')}}" height="125px">
+  <img id="run" src="{{ url_for('static', filename='img/running-guy.gif')}}" height=100><hr>
+{% endblock %}
+
+{% block content %}
+<div class="row">
+  <div class="col-md-7">
+  <h2 id="head2">Tracking and Fielding Data <img src="https://clip2art.com/images/situation-clipart-data-analysis-15.png" height="50"></h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-7">
+  <p id="p0">
+    The Olympic Games began in 1896 taking inspiration from the ancient Olympic Games held in Olympia Greece. In 1896, the average athlete participated in track and field events on literal fields of grass. Let's take a look back at data within the last century and see what trends we see across modern atheltes.
+  </p>
+  </div>
+  </div>
+
+{% endblock %}

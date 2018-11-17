@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+<!-- import from Google Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Gothic+A1:bold, extra-bold, black" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300, bold" rel="stylesheet">
+
+{% block extra_imports %}
+{% endblock %}
+
+
+<title>{% block title %}JavaSprint{% endblock %}</title>
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-dark sticky-top lighten flex-md-nowrap p-0 body">
+  {% block nav_header %}
+  {% endblock %}
+</nav>
+<div class="container-fluid">
+  <div class="row" style="background-color:#F0DB4F">
+    <nav class="col-md-2 d-none d-md-block bg-light sidebar yellowize" style="padding-left: 0px; padding-right: 0px;">
+      <!-- adjusted padding to close gap in background -->
+      <div class="sidebar-sticky">
+        <ul class="nav">
+            <li class="nav-item"><a class="nav-link" href="{{ url_for('home') }}">Home</a></li>
+            <li class="nav-item"><a class="nav-link"  href="{{ url_for('datapage') }}">Data</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ url_for('trackpage') }}">Track Events</a></li>
+            <li class="nav-item"><a class="nav-link"  href="{{ url_for('fieldpage') }}">Field Events</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ url_for('contact') }}">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+    <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+      <div id="innerBody" class="col-md-12">
+        {% block content %}
+        {% endblock %}
+      </div>
+    </main>
+  </div>
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+{% block footer_imports %}
+{% endblock %}
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿City,Year,Event,Sex,Event_sex,G,S,B,WR at time,medal_avg_time,avg_full_field_3or5,avg_full_field_all_and_medalists,diff_medals_full_field,diff_wr_medals,diff_wr_full_field
+London,1948,200 meters,female,200 Meter Women,24.4,25.1,25.2,,24.90,25.37,25.13,0.47,,
+Helsinki,1952,200 meters,female,200 Meter Women,23.7,24.2,24.2,,24.03,24.47,24.25,0.43,,
+Melbourne,1956,200 meters,female,200 Meter Women,23.4,23.7,23.8,,23.63,24.20,23.92,0.57,,
+Rome,1960,200 meters,female,200 Meter Women,24,24.4,24.7,,24.37,24.80,24.58,0.43,,
+Tokyo,1964,200 meters,female,200 Meter Women,23,23.1,23.1,,23.07,23.76,23.50,0.69,,
+Mexico City,1968,200 meters,female,200 Meter Women,22.5,22.7,22.8,,22.67,23.04,22.90,0.37,,
+Munich,1972,200 meters,female,200 Meter Women,22.4,22.45,22.74,,22.53,22.93,22.78,0.40,,
+Montreal,1976,200 meters,female,200 Meter Women,22.37,22.39,22.47,,22.41,22.89,22.71,0.48,,
+Moscow,1980,200 meters,female,200 Meter Women,22.03,22.19,22.2,21.71,22.14,22.67,22.47,0.53,0.43,0.96
+Los Angeles,1984,200 meters,female,200 Meter Women,21.81,22.04,22.09,21.71,21.98,22.46,22.28,0.48,0.27,0.75
+Seoul,1988,200 meters,female,200 Meter Women,21.34,21.72,21.95,21.71,21.67,22.20,22.00,0.53,-0.04,0.49
+Barcelona,1992,200 meters,female,200 Meter Women,21.81,22.02,22.09,21.34,21.97,22.46,22.28,0.49,0.63,1.12
+Atlanta,1996,200 meters,female,200 Meter Women,22.12,22.24,22.38,21.34,22.25,22.52,22.42,0.28,0.91,1.18
+Sydney,2000,200 meters,female,200 Meter Women,22.27,22.28,22.35,21.34,22.30,22.50,22.41,0.20,0.96,1.16
+Athens,2004,200 meters,female,200 Meter Women,22.05,22.18,22.3,21.34,22.18,22.71,22.51,0.54,0.84,1.37
+Beijing,2008,200 meters,female,200 Meter Women,21.74,21.93,22,21.34,21.89,22.40,22.21,0.51,0.55,1.06
+London,2012,200 meters,female,200 Meter Women,21.88,22.09,22.14,21.34,22.04,22.57,22.37,0.53,0.70,1.23
+Rio,2016,200 meters,female,200 Meter Women,21.78,21.88,22.15,21.34,21.94,22.44,22.25,0.50,0.60,1.10

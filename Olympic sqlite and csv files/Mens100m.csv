@@ -1,0 +1,19 @@
+﻿City,Year,Event,Sex,Event_sex,G,S,B,WR at time,medal_avg_time,avg_full_field_3or5,avg_full_field_all_and_medalists,diff_medals_full_field,diff_wr_medals,diff_wr_full_field
+London,1948,100 meters,male,100 Meter Men,10.3,10.4,10.6,,10.43,10.60,10.52,0.17,,
+Helsinki,1952,100 meters,male,100 Meter Men,10.4,10.4,10.4,,10.40,10.47,10.43,0.07,,
+Melbourne,1956,100 meters,male,100 Meter Men,10.5,10.5,10.6,,10.53,10.67,10.60,0.13,,
+Rome,1960,100 meters,male,100 Meter Men,10.2,10.2,10.3,,10.23,10.33,10.28,0.10,,
+Tokyo,1964,100 meters,male,100 Meter Men,10,10.2,10.2,,10.13,10.42,10.31,0.29,,
+Mexico City,1968,100 meters,male,100 Meter Men,9.9,10,10,,9.97,10.12,10.06,0.15,,
+Munich,1972,100 meters,male,100 Meter Men,10.14,10.24,10.33,,10.24,10.41,10.33,0.17,,
+Montreal,1976,100 meters,male,100 Meter Men,10.06,10.08,10.14,,10.09,10.27,10.21,0.18,,
+Moscow,1980,100 meters,male,100 Meter Men,10.25,10.25,10.39,9.95,10.30,10.45,10.39,0.15,0.35,0.50
+Los Angeles,1984,100 meters,male,100 Meter Men,9.99,10.19,10.22,9.93,10.13,10.30,10.24,0.17,0.20,0.37
+Seoul,1988,100 meters,male,100 Meter Men,9.92,9.97,9.99,9.92,9.96,10.63,10.34,0.67,0.04,0.71
+Barcelona,1992,100 meters,male,100 Meter Men,9.96,10.02,10.04,9.86,10.01,10.16,10.10,0.15,0.15,0.30
+Atlanta,1996,100 meters,male,100 Meter Men,9.95,10.19,10.24,9.86,10.13,10.31,10.24,0.19,0.27,0.45
+Sydney,2000,100 meters,male,100 Meter Men,9.87,9.99,10.04,9.79,9.97,10.12,10.05,0.15,0.18,0.33
+Athens,2004,100 meters,male,100 Meter Men,9.85,9.86,9.87,9.79,9.86,9.98,9.93,0.12,0.07,0.19
+Beijing,2008,100 meters,male,100 Meter Men,9.69,9.89,9.91,9.72,9.83,9.98,9.92,0.15,0.11,0.26
+London,2012,100 meters,male,100 Meter Men,9.63,9.75,9.79,9.58,9.72,10.32,10.10,0.59,0.14,0.74
+Rio,2016,100 meters,male,100 Meter Men,9.81,9.89,9.91,9.58,9.87,9.99,9.94,0.12,0.29,0.41

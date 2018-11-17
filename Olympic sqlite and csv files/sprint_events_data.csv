@@ -1,0 +1,109 @@
+﻿City,Year,Event,Sex,Event_sex,G,S,B,WR at time,medal_avg_time,avg_full_field_3or5,avg_full_field_all_and_medalists,diff_medals_full_field,diff_wr_medals,diff_wr_full_field
+London,1948,100 meters,male,100 Meter Men,10.3,10.4,10.6,,10.43,10.60,10.52,0.17,,
+Helsinki,1952,100 meters,male,100 Meter Men,10.4,10.4,10.4,,10.40,10.47,10.43,0.07,,
+Melbourne,1956,100 meters,male,100 Meter Men,10.5,10.5,10.6,,10.53,10.67,10.60,0.13,,
+Rome,1960,100 meters,male,100 Meter Men,10.2,10.2,10.3,,10.23,10.33,10.28,0.10,,
+Tokyo,1964,100 meters,male,100 Meter Men,10,10.2,10.2,,10.13,10.42,10.31,0.29,,
+Mexico City,1968,100 meters,male,100 Meter Men,9.9,10,10,,9.97,10.12,10.06,0.15,,
+Munich,1972,100 meters,male,100 Meter Men,10.14,10.24,10.33,,10.24,10.41,10.33,0.17,,
+Montreal,1976,100 meters,male,100 Meter Men,10.06,10.08,10.14,,10.09,10.27,10.21,0.18,,
+Moscow,1980,100 meters,male,100 Meter Men,10.25,10.25,10.39,9.95,10.30,10.45,10.39,0.15,0.35,0.50
+Los Angeles,1984,100 meters,male,100 Meter Men,9.99,10.19,10.22,9.93,10.13,10.30,10.24,0.17,0.20,0.37
+Seoul,1988,100 meters,male,100 Meter Men,9.92,9.97,9.99,9.92,9.96,10.63,10.34,0.67,0.04,0.71
+Barcelona,1992,100 meters,male,100 Meter Men,9.96,10.02,10.04,9.86,10.01,10.16,10.10,0.15,0.15,0.30
+Atlanta,1996,100 meters,male,100 Meter Men,9.95,10.19,10.24,9.86,10.13,10.31,10.24,0.19,0.27,0.45
+Sydney,2000,100 meters,male,100 Meter Men,9.87,9.99,10.04,9.79,9.97,10.12,10.05,0.15,0.18,0.33
+Athens,2004,100 meters,male,100 Meter Men,9.85,9.86,9.87,9.79,9.86,9.98,9.93,0.12,0.07,0.19
+Beijing,2008,100 meters,male,100 Meter Men,9.69,9.89,9.91,9.72,9.83,9.98,9.92,0.15,0.11,0.26
+London,2012,100 meters,male,100 Meter Men,9.63,9.75,9.79,9.58,9.72,10.32,10.10,0.59,0.14,0.74
+Rio,2016,100 meters,male,100 Meter Men,9.81,9.89,9.91,9.58,9.87,9.99,9.94,0.12,0.29,0.41
+London,1948,100 meters,female,100 Meter Women,11.9,12.2,12.2,,12.10,12.33,12.22,0.23,,
+Helsinki,1952,100 meters,female,100 Meter Women,11.5,11.8,11.9,,11.73,11.97,11.85,0.23,,
+Melbourne,1956,100 meters,female,100 Meter Women,11.5,11.7,11.7,,11.63,11.90,11.77,0.27,,
+Rome,1960,100 meters,female,100 Meter Women,11,11.3,11.3,,11.20,11.50,11.35,0.30,,
+Tokyo,1964,100 meters,female,100 Meter Women,11.4,11.6,11.6,,11.53,11.74,11.66,0.21,,
+Mexico City,1968,100 meters,female,100 Meter Women,11,11.1,11.1,,11.07,11.38,11.26,0.31,,
+Munich,1972,100 meters,female,100 Meter Women,10.07,11.23,11.24,,10.85,11.61,11.32,0.76,,
+Montreal,1976,100 meters,female,100 Meter Women,11.08,11.13,11.17,,11.13,11.29,11.23,0.16,,
+Moscow,1980,100 meters,female,100 Meter Women,11.06,11.07,11.14,10.88,11.09,11.25,11.19,0.16,0.21,0.37
+Los Angeles,1984,100 meters,female,100 Meter Women,10.97,11.13,11.16,10.79,11.09,11.42,11.29,0.33,0.30,0.63
+Seoul,1988,100 meters,female,100 Meter Women,10.54,10.83,10.85,10.49,10.74,11.14,10.99,0.40,0.25,0.65
+Barcelona,1992,100 meters,female,100 Meter Women,10.82,10.83,10.84,10.49,10.83,11.04,10.96,0.21,0.34,0.55
+Atlanta,1996,100 meters,female,100 Meter Women,10.94,10.94,10.96,10.49,10.95,11.09,11.03,0.14,0.46,0.60
+Sydney,2000,100 meters,female,100 Meter Women,11.12,11.18,11.19,10.49,11.16,11.23,11.20,0.07,0.67,0.74
+Athens,2004,100 meters,female,100 Meter Women,10.93,10.96,10.97,10.49,10.95,11.09,11.04,0.14,0.46,0.60
+Beijing,2008,100 meters,female,100 Meter Women,10.78,10.98,11.98,10.49,11.25,11.13,11.17,-0.12,0.76,0.64
+London,2012,100 meters,female,100 Meter Women,10.75,10.78,10.81,10.49,10.78,10.94,10.88,0.16,0.29,0.45
+Rio,2016,100 meters,female,100 Meter Women,10.71,10.83,10.86,10.49,10.80,11.08,10.98,0.28,0.31,0.59
+London,1948,200 meters,male,200 Meter Men,21.1,21.1,21.2,,21.13,21.37,21.25,0.23,,
+Helsinki,1952,200 meters,male,200 Meter Men,20.7,20.8,20.8,,20.77,21.17,20.97,0.40,,
+Melbourne,1956,200 meters,male,200 Meter Men,20.6,20.7,20.9,,20.73,21.20,20.97,0.47,,
+Rome,1960,200 meters,male,200 Meter Men,20.5,20.6,20.7,,20.60,20.83,20.72,0.23,,
+Tokyo,1964,200 meters,male,200 Meter Men,20.3,20.5,20.6,,20.47,20.80,20.68,0.33,,
+Mexico City,1968,200 meters,male,200 Meter Men,19.8,20,20,,19.93,20.52,20.30,0.59,,
+Munich,1972,200 meters,male,200 Meter Men,20,20.19,20.3,,20.16,20.64,20.46,0.47,,
+Montreal,1976,200 meters,male,200 Meter Men,20.23,20.29,20.43,,20.32,20.87,20.63,0.55,,
+Moscow,1980,200 meters,male,200 Meter Men,20.19,20.21,20.29,19.72,20.23,20.70,20.52,0.47,0.51,0.98
+Los Angeles,1984,200 meters,male,200 Meter Men,19.8,19.96,20.26,19.72,20.01,20.55,20.35,0.55,0.29,0.83
+Seoul,1988,200 meters,male,200 Meter Men,19.75,19.76,20.04,19.72,19.85,20.39,20.19,0.54,0.13,0.67
+Barcelona,1992,200 meters,male,200 Meter Men,20.01,20.13,20.38,19.72,20.17,20.59,20.44,0.42,0.45,0.87
+Atlanta,1996,200 meters,male,200 Meter Men,19.32,19.68,19.8,19.66,19.60,20.25,20.01,0.65,-0.06,0.59
+Sydney,2000,200 meters,male,200 Meter Men,20.09,20.14,20.2,19.32,20.14,20.31,20.25,0.17,0.82,0.99
+Athens,2004,200 meters,male,200 Meter Men,19.79,20.01,20.03,19.32,19.94,20.29,20.14,0.35,0.62,0.97
+Beijing,2008,200 meters,male,200 Meter Men,19.3,19.96,19.98,19.32,19.75,20.40,20.07,0.65,0.43,1.08
+London,2012,200 meters,male,200 Meter Men,19.32,19.44,19.84,19.19,19.53,20.27,19.99,0.74,0.34,1.08
+Rio,2016,200 meters,male,200 Meter Men,19.78,20.02,20.12,19.19,19.97,20.22,20.13,0.25,0.78,1.03
+London,1948,200 meters,female,200 Meter Women,24.4,25.1,25.2,,24.90,25.37,25.13,0.47,,
+Helsinki,1952,200 meters,female,200 Meter Women,23.7,24.2,24.2,,24.03,24.47,24.25,0.43,,
+Melbourne,1956,200 meters,female,200 Meter Women,23.4,23.7,23.8,,23.63,24.20,23.92,0.57,,
+Rome,1960,200 meters,female,200 Meter Women,24,24.4,24.7,,24.37,24.80,24.58,0.43,,
+Tokyo,1964,200 meters,female,200 Meter Women,23,23.1,23.1,,23.07,23.76,23.50,0.69,,
+Mexico City,1968,200 meters,female,200 Meter Women,22.5,22.7,22.8,,22.67,23.04,22.90,0.37,,
+Munich,1972,200 meters,female,200 Meter Women,22.4,22.45,22.74,,22.53,22.93,22.78,0.40,,
+Montreal,1976,200 meters,female,200 Meter Women,22.37,22.39,22.47,,22.41,22.89,22.71,0.48,,
+Moscow,1980,200 meters,female,200 Meter Women,22.03,22.19,22.2,21.71,22.14,22.67,22.47,0.53,0.43,0.96
+Los Angeles,1984,200 meters,female,200 Meter Women,21.81,22.04,22.09,21.71,21.98,22.46,22.28,0.48,0.27,0.75
+Seoul,1988,200 meters,female,200 Meter Women,21.34,21.72,21.95,21.71,21.67,22.20,22.00,0.53,-0.04,0.49
+Barcelona,1992,200 meters,female,200 Meter Women,21.81,22.02,22.09,21.34,21.97,22.46,22.28,0.49,0.63,1.12
+Atlanta,1996,200 meters,female,200 Meter Women,22.12,22.24,22.38,21.34,22.25,22.52,22.42,0.28,0.91,1.18
+Sydney,2000,200 meters,female,200 Meter Women,22.27,22.28,22.35,21.34,22.30,22.50,22.41,0.20,0.96,1.16
+Athens,2004,200 meters,female,200 Meter Women,22.05,22.18,22.3,21.34,22.18,22.71,22.51,0.54,0.84,1.37
+Beijing,2008,200 meters,female,200 Meter Women,21.74,21.93,22,21.34,21.89,22.40,22.21,0.51,0.55,1.06
+London,2012,200 meters,female,200 Meter Women,21.88,22.09,22.14,21.34,22.04,22.57,22.37,0.53,0.70,1.23
+Rio,2016,200 meters,female,200 Meter Women,21.78,21.88,22.15,21.34,21.94,22.44,22.25,0.50,0.60,1.10
+London,1948,400 meters,male,400 Meter Men,46.2,46.4,46.9,,46.50,48.43,47.47,1.93,,
+Helsinki,1952,400 meters,male,400 Meter Men,45.9,45.9,46.8,,46.20,47.03,46.62,0.83,,
+Melbourne,1956,400 meters,male,400 Meter Men,46.7,46.8,47,,46.83,47.80,47.32,0.97,,
+Rome,1960,400 meters,male,400 Meter Men,44.9,44.9,45.5,,45.10,45.80,45.45,0.70,,
+Tokyo,1964,400 meters,male,400 Meter Men,45.1,45.2,45.6,,45.30,46.16,45.84,0.86,,
+Mexico City,1968,400 meters,male,400 Meter Men,43.8,43.9,44.4,,44.03,45.74,45.10,1.71,,
+Munich,1972,400 meters,male,400 Meter Men,44.66,44.8,44.92,,44.79,45.65,45.28,0.86,,
+Montreal,1976,400 meters,male,400 Meter Men,44.26,44.4,44.95,,44.54,45.38,45.06,0.84,,
+Moscow,1980,400 meters,male,400 Meter Men,44.6,44.84,44.87,43.86,44.77,45.53,45.24,0.76,0.91,1.67
+Los Angeles,1984,400 meters,male,400 Meter Men,44.27,44.54,44.71,43.86,44.51,44.95,44.76,0.44,0.65,1.09
+Seoul,1988,400 meters,male,400 Meter Men,43.87,45.93,44.09,43.29,44.63,44.84,44.76,0.21,1.34,1.55
+Barcelona,1992,400 meters,male,400 Meter Men,43.5,44.21,44.24,43.29,43.98,44.76,44.47,0.78,0.69,1.47
+Atlanta,1996,400 meters,male,400 Meter Men,43.49,44.41,44.53,43.29,44.14,44.79,44.51,0.64,0.85,1.50
+Sydney,2000,400 meters,male,400 Meter Men,43.84,44.4,44.7,43.18,44.31,45.24,44.84,0.93,1.13,2.06
+Athens,2004,400 meters,male,400 Meter Men,44,44.16,44.42,43.18,44.19,44.95,44.67,0.75,1.01,1.77
+Beijing,2008,400 meters,male,400 Meter Men,43.75,44.74,44.8,43.18,44.43,45.14,44.87,0.71,1.25,1.96
+London,2012,400 meters,male,400 Meter Men,43.94,44.46,44.52,43.18,44.31,44.91,44.68,0.60,1.13,1.73
+Rio,2016,400 meters,male,400 Meter Men,43.03,43.76,43.85,43.18,43.55,44.34,44.04,0.79,0.37,1.16
+London,1948,400 meters,female,400 Meter Women,,,,,,,,,,
+Helsinki,1952,400 meters,female,400 Meter Women,,,,,,,,,,
+Melbourne,1956,400 meters,female,400 Meter Women,,,,,,,,,,
+Rome,1960,400 meters,female,400 Meter Women,,,,,,,,,,
+Tokyo,1964,400 meters,female,400 Meter Women,52,52.2,53.4,,52.53,55.02,54.09,2.49,,
+Mexico City,1968,400 meters,female,400 Meter Women,52,52.1,52.2,,52.10,52.74,52.50,0.64,,
+Munich,1972,400 meters,female,400 Meter Women,51.08,51.21,51.64,,51.31,52.08,51.79,0.77,,
+Montreal,1976,400 meters,female,400 Meter Women,49.29,50.51,50.55,,50.12,52.95,51.89,2.83,,
+Moscow,1980,400 meters,female,400 Meter Women,48.88,49.46,49.66,48.6,49.33,51.06,50.42,1.73,0.73,2.46
+Los Angeles,1984,400 meters,female,400 Meter Women,48.83,49.05,49.42,47.99,49.10,50.51,49.98,1.41,1.11,2.52
+Seoul,1988,400 meters,female,400 Meter Women,48.65,49.45,49.9,47.6,49.33,50.88,50.30,1.55,1.73,3.28
+Barcelona,1992,400 meters,female,400 Meter Women,48.83,49.05,49.64,47.6,49.17,50.16,49.79,0.98,1.57,2.56
+Atlanta,1996,400 meters,female,400 Meter Women,48.25,48.63,49.1,47.6,48.66,49.95,49.47,1.29,1.06,2.35
+Sydney,2000,400 meters,female,400 Meter Women,49.11,49.58,49.72,47.6,49.47,50.19,49.92,0.72,1.87,2.59
+Athens,2004,400 meters,female,400 Meter Women,49.42,49.56,49.89,47.6,49.62,50.24,50.01,0.61,2.02,2.64
+Beijing,2008,400 meters,female,400 Meter Women,49.62,49.69,49.93,47.6,49.75,50.62,50.19,0.88,2.15,3.02
+London,2012,400 meters,female,400 Meter Women,49.55,49.7,49.72,47.6,49.66,50.25,49.99,0.59,2.06,2.65
+Rio,2016,400 meters,female,400 Meter Women,49.44,49.51,49.85,47.6,49.60,50.85,50.38,1.25,2.00,3.25

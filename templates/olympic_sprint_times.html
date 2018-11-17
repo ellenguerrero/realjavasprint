@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="olympic_sprint_styles.css">
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<select id="inds">
+		<option value="100 meters female" selected="selected">100 meters female</option>
+    <option value="100 meters male">100 meters male</option>
+    <option value="200 meters female">200 meters female</option>
+    <option value="200 meters male">200 meters male</option>
+    <option value="400 meters female">400 meters female</option>
+		<option value="400 meters male">400 meters male</option>
+</select>
+<div id="legendContainer" class="legendContainer">
+	<svg id="legend"></svg>
+</div>
+<div id="showAll">
+	<input name="showAllButton"
+	 type="button"
+	 value="Show All"
+	 onclick="showAll()" />
+</div>
+<div id="clearAll">
+	<input name="clearAllButton"
+	 type="button"
+	 value="Clear All"
+	 onclick="clearAll()" />
+</div>
+<script src="olympic_sprint_times.js"></script>

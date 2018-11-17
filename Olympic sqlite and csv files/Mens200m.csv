@@ -1,0 +1,19 @@
+﻿City,Year,Event,Sex,Event_sex,G,S,B,WR at time,medal_avg_time,avg_full_field_3or5,avg_full_field_all_and_medalists,diff_medals_full_field,diff_wr_medals,diff_wr_full_field
+London,1948,200 meters,male,200 Meter Men,21.1,21.1,21.2,,21.13,21.37,21.25,0.23,,
+Helsinki,1952,200 meters,male,200 Meter Men,20.7,20.8,20.8,,20.77,21.17,20.97,0.40,,
+Melbourne,1956,200 meters,male,200 Meter Men,20.6,20.7,20.9,,20.73,21.20,20.97,0.47,,
+Rome,1960,200 meters,male,200 Meter Men,20.5,20.6,20.7,,20.60,20.83,20.72,0.23,,
+Tokyo,1964,200 meters,male,200 Meter Men,20.3,20.5,20.6,,20.47,20.80,20.68,0.33,,
+Mexico City,1968,200 meters,male,200 Meter Men,19.8,20,20,,19.93,20.52,20.30,0.59,,
+Munich,1972,200 meters,male,200 Meter Men,20,20.19,20.3,,20.16,20.64,20.46,0.47,,
+Montreal,1976,200 meters,male,200 Meter Men,20.23,20.29,20.43,,20.32,20.87,20.63,0.55,,
+Moscow,1980,200 meters,male,200 Meter Men,20.19,20.21,20.29,19.72,20.23,20.70,20.52,0.47,0.51,0.98
+Los Angeles,1984,200 meters,male,200 Meter Men,19.8,19.96,20.26,19.72,20.01,20.55,20.35,0.55,0.29,0.83
+Seoul,1988,200 meters,male,200 Meter Men,19.75,19.76,20.04,19.72,19.85,20.39,20.19,0.54,0.13,0.67
+Barcelona,1992,200 meters,male,200 Meter Men,20.01,20.13,20.38,19.72,20.17,20.59,20.44,0.42,0.45,0.87
+Atlanta,1996,200 meters,male,200 Meter Men,19.32,19.68,19.8,19.66,19.60,20.25,20.01,0.65,-0.06,0.59
+Sydney,2000,200 meters,male,200 Meter Men,20.09,20.14,20.2,19.32,20.14,20.31,20.25,0.17,0.82,0.99
+Athens,2004,200 meters,male,200 Meter Men,19.79,20.01,20.03,19.32,19.94,20.29,20.14,0.35,0.62,0.97
+Beijing,2008,200 meters,male,200 Meter Men,19.3,19.96,19.98,19.32,19.75,20.40,20.07,0.65,0.43,1.08
+London,2012,200 meters,male,200 Meter Men,19.32,19.44,19.84,19.19,19.53,20.27,19.99,0.74,0.34,1.08
+Rio,2016,200 meters,male,200 Meter Men,19.78,20.02,20.12,19.19,19.97,20.22,20.13,0.25,0.78,1.03
