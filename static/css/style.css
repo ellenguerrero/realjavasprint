@@ -192,7 +192,7 @@ font-family: 'Open Sans Condensed', sans-serif;
     height: 100%;
 }
 
-/* #table-options-dropdown {
+#table-options-dropdown {
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 25px;
     padding: 10px;
@@ -237,9 +237,9 @@ tr {
 
   tr:nth-child(even) {background-color: #F0DB4F;}
 
-  tr:hover {background-color: #323330;
+/*  tr:hover {background-color: #323330;
     color: #fff}
     [class*="col-"] {
         width: 100%;
-    }
- */
+    } */
+ 
