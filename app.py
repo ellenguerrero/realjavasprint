@@ -27,10 +27,10 @@ def home():
 
     return render_template("index.html")
 
-@app.route('/contact')
-def contact():
+@app.route('/track2')
+def track2():
 
-    return render_template("contact.html")
+    return render_template("track2.html")
 
 
 @app.route('/field')

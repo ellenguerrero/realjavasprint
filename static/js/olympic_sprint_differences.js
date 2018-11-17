@@ -39,7 +39,7 @@ var recordline = d3.svg.line()
     .y(function(d) { return y(d.value); });
 
 // Adds svg canvas
-var svg = d3.select("body")
+var svg = d3.select("main")
     .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
@@ -48,7 +48,7 @@ var svg = d3.select("body")
               "translate(" + margin.left + "," + margin.top + ")");
 var data;
 // Get data
-d3.json("olympic_sprint_differences.json", function(error, json) {
+d3.json("../static/js/olympic_sprint_differences.json", function(error, json) {
   console.log(json)
  
   json.forEach(function(d) {

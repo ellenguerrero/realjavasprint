@@ -32,7 +32,7 @@ var layout = {
   width: 900,
   height: 900,
   title: 'Discus Results',
-  font: {size: 20},
+  font: {size: 10},
   plot_bgcolor: '#3d7d00',
   angularaxis: {tickcolor: 'white'},
   hovermode: false,
@@ -40,6 +40,7 @@ var layout = {
     visible: true,
     color: 'white',
     range: [50, 75],
+
   }
 };
 Plotly.plot('plot1', discusData, layout, align = "center");
