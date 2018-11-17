@@ -34,6 +34,7 @@ var layout = {
   title: 'Discus Results',
   font: {size: 20},
   plot_bgcolor: '#3d7d00',
+  paper_bgcolor: 'rgba(0,0,0,0)',
   angularaxis: {tickcolor: 'white'},
   hovermode: false,
   radialaxis: {
@@ -80,6 +81,7 @@ var layout = {
   title: 'Shot Put Results',
   font: {size: 20},
   plot_bgcolor: '#3d7d00',
+  paper_bgcolor: 'rgba(0,0,0,0)',
   angularaxis: {tickcolor: 'white'},
   hovermode: false,
   radialaxis: {
